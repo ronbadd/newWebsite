@@ -1,0 +1,69 @@
+/*************************************************
+top bar color
+************************************************/
+
+html {
+  background-color: lightblue;
+  border-top: 20px solid #360000;
+}
+
+/*****************************
+BODY STYLING
+*********************************/
+
+body {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px 20px;
+  font-size: 1.3em;
+  line-height: 1.6em;
+  font-family: 'Bangers' , sans-serif;
+  color: #360000;
+  font-weight: 300;
+}
+
+/***********************************
+Image styling
+**************************************/
+
+img {
+  border-radius: 100%;
+  max-width: 340px;
+}
+
+@media screen and (min-width: 680px) {
+  {
+  }
+}
+
+/************************************
+headline styling
+**********************************/
+h1 {
+  font-size: 1.5em;
+  line-height: .5em;
+  color: #564581;
+}
+
+h2 {
+  font-size: 1em;
+  line-height: 1em;
+  font-style: oblique;
+  color: #360000;
+}
+
+h3 {
+  font-size: .875em;
+  line-height: 1em;
+  font-weight: normal;
+}
+
+h4 {
+  margin-top: 60px;
+  font-weight: 500;
+  color: #564581;
+}
+  
+  
+  
+  
